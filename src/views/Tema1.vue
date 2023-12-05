@@ -252,7 +252,7 @@
                 td 
                   p Definición del tamaño del muestreo y conteo de las unidades por embalaje. 
                 td 
-                  p Posterior a la validación de cantidades con los embalajes se debe decidir si se realiza el conteo de la totalidad de productos o se realiza un muestreo de un embalaje. Este procedimiento depende del tipo de productos, ya que por ejemplo si se reciben puntillas o tachuelas, el procedimiento de conteo de un pedido puede tardar varias horas o días, por lo cual se realiza un conteo aleatorio de algunos embalajes (muestreo). En caso de encontrarse inconformidades en el conteo el jefe de bodega tomará la decisión de realizar el conteo total de la mercancía o notificar al proveedor la devolución de todo el pedido.
+                  p Posterior a la validación de cantidades con los embalajes se debe decidir si se realiza el conteo de la totalidad de productos o se realiza un muestreo de un embalaje. Este procedimiento depende del tipo de productos, ya que por ejemplo si se reciben puntillas o tachuelas, el procedimiento de conteo de un pedido puede tardar varias horas o días, por lo cual se realiza un conteo aleatorio de algunos embalajes (muestreo). En caso de encontrarse inconformidades en el conteo, el jefe de bodega tomará la decisión de realizar el conteo total de la mercancía o notificar al proveedor la devolución de todo el pedido.
                 td 
                   p Se realiza el proceso de conteo con el personal del proveedor que entrega, para que él valide los faltantes, se contacta telefónicamente al proveedor para informar que se devolverá el pedido por faltantes y se envía correo electrónico con un informe y con el soporte fotográfico del registro de faltantes. 
               tr
