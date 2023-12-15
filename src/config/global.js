@@ -314,7 +314,7 @@ export default {
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
-          cargo: 'Storyboar e Ilustración',
+          cargo: 'Storyboard e Ilustración',
           centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {

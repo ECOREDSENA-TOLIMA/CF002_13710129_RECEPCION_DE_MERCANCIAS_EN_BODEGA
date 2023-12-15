@@ -149,7 +149,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/ej-02.svg', alt='')
         h4.text-center Productos con fechas de vencimiento inferiores a lo acordado
-        p la gran mayoría de productos alimenticios son considerados perecederos, razón por la cual deben ser distribuidos antes de su vencimiento, se deben considerar los tiempos de almacenamiento en el proveedor, la distribución,  el almacenamiento hasta realizar la venta y tiempo de consumo por parte del usuario final. Algunos distribuidores solicitan en las negociaciones con el proveedor que se entreguen productos con fechas de vencimiento superiores a varias semanas o meses y en caso de no coincidir estas fechas se devolverá al proveedor la mercancía. 
+        p La gran mayoría de productos alimenticios son considerados perecederos, razón por la cual deben ser distribuidos antes de su vencimiento, se deben considerar los tiempos de almacenamiento en el proveedor, la distribución,  el almacenamiento hasta realizar la venta y tiempo de consumo por parte del usuario final. Algunos distribuidores solicitan en las negociaciones con el proveedor que se entreguen productos con fechas de vencimiento superiores a varias semanas o meses y en caso de no coincidir estas fechas se devolverá al proveedor la mercancía. 
 
     .d-flex.py-3.mb-4(data-aos="zoom-in-down")
       .titulo-herramientas.d-flex.py-2.text-white
@@ -185,7 +185,7 @@
         h3.mb-0.d-none.d-sm-none.d-md-inline-flex.mx-3 Devolución previa al recibo de la mercancía
         h3.mb-0.d-block.d-md-none.mx-3 Devolución previa al recibo de la mercancía
     
-    p.mb-5(data-aos="fade-down") Las características del siguiente procedimiento contemplan que el proveedor entregará la mercancía en las instalaciones de la empresa del cliente, la mercancía es nueva, existió una solicitud de compra y el pedido se debe entregar completo, es decir, no se reciben entregas con faltantes de productos
+    p.mb-5(data-aos="fade-down") Las características del siguiente procedimiento contemplan que el proveedor entregará la mercancía en las instalaciones de la empresa del cliente, la mercancía es nueva, existió una solicitud de compra y el pedido se debe entregar completo, es decir, no se reciben entregas con faltantes de productos.
 
     .row.justify-content-center.mb-4
       .col-12(data-aos="fade-left")
